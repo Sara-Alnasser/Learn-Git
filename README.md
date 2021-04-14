@@ -18,7 +18,7 @@
 |Ch07 |<div dir =rtl > الدمج : Merge</div><div dir =rtl >7.1 مفهوم الدمج :Merge </div><div dir =rtl >7.2 الدمج المباشر : Fast-Forword Merge </div><div dir =rtl >7.3 الدمج الحقيقي : True Merge </div> 
 |Ch08 |<div dir =rtl > العلامات: Tags</div><div dir =rtl>8.1 إنشاء و عرض tag </div><div dir =rtl >8.2  عرض تفاصيل tag</div><div dir =rtl >8.3 حذف tag</div> 
 |Ch09 |<div dir =rtl >  استنساخ مشروع : Git Cloning   </div><div dir =rtl >9.1 الأمر git clone</div><div dir =rtl >9.2 الأمر git push</div><div dir =rtl >9.3 الأمر git pull</div> 
-|Ch10 |<div dir =rtl > المشاريع الخارجية : Remote</div> 
+|Ch10 |<div dir =rtl > المشاريع الخارجية : Remote</div><div dir =rtl >10.1 إضافة remote</div><div dir =rtl >10.2 رفع التحديثات لمشروع خارجي </div><div dir =rtl >10.3 حذف  remote </div> 
 <br>
 <br>
 <br>
