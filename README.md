@@ -12,12 +12,9 @@
 
 |<div dir =rtl >الفصل </div>     | <div dir =rtl> المحتوى</div>   
 |--------------------------------|------------------------------------------------:|
-|Ch01 |<div dir =rtl > مقدمة في Git </div><div dir =rtl > 1.1 لماذا نحتاج Git؟</div><div dir =rtl > 1.2 مفهوم أنظمة التحكم بالنسخ VCS</div><div dir =rtl > 1.3أنواع أنظمة التحكم بالنسخ VCS
-</div>
-|
-|Ch02 |<div dir =rtl > ` تحميل الأدوات`   </div> 
-|
-|Ch03 |<div dir =rtl > `ابدأ مع Git`   </div> 
+|Ch01 |<div dir =rtl > مقدمة في Git </div><div dir =rtl > 1.1 لماذا نحتاج Git؟</div><div dir =rtl > 1.2 مفهوم أنظمة التحكم بالنسخ VCS</div><div dir =rtl > 1.3أنواع أنظمة التحكم بالنسخ VCS</div>
+|Ch02 |<div dir =rtl > تحميل الأدوات </div><div dir =rtl > 2.1 تنزيل Git على نظام Windows</div><div dir =rtl > 2.2 تنزيل على نظام  McOS</div> 
+|Ch03 |<div dir =rtl > ابدأ مع Git</div><div dir =rtl > ابدأ مع Git</div><div dir =rtl > ابدأ مع Git</div><div dir =rtl > ابدأ مع Git</div> 
 |Ch04 |<div dir =rtl > `راحل الملفات | Git Stages`   </div> 
 |Ch05 |<div dir =rtl > `استعراض تاريخ المشروع | Git log`   </div> 
 |Ch06 |<div dir =rtl > `الفروع | Git Branches`   </div> 
